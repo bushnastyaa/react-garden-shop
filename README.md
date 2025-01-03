@@ -4,32 +4,20 @@
 
   - **Render**:  `https://backend-react-garden-shop.onrender.com`
   
-  - **Vercel**:  `...`
+  - **Vercel**:  `https://react-garden-shop.vercel.app`
 
 
 ## Установка и запуск
 
-- **1.** Клонируйте репозиторий:
-   
-    - 1.1. Введите в строке команду:
+```shell
+# Клонируйте репозиторий
+git clone https://github.com/bushnastyaa/react-garden-shop.git
 
-    `git clone ...`
+# Запустите приложение
+npm i
 
-
-- **2.** Предварительная настройка и запуск:
-
-    - 2.1. Введите в строке команду:
-
-    `cd C:\Users\current_user_name\react-garden-shop`
-
-    - 2.2. Введите в строке команду:
-
-    `npm install`
-
-    - 2.3. Введите в строке команду:
-
-    `npm start`
-
+npm start
+```
 
 ## Stack:
 - **React-router-dom**
